@@ -13,7 +13,7 @@ std_job{
 	job_level 		'岗位级别',
 	edu_degree		'最低学历',
 	indu_years		'工作经验',
-	
+
 	memo2 			'说明',
 	reg_name 		'登记人',
 	reg_time 		'登记时间',
